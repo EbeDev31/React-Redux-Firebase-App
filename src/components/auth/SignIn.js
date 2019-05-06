@@ -48,6 +48,7 @@ import { signIn } from '../store/actions/authActions'
 }
 
 const mapStateToProps = (state) => {
+  console.log(state)
     return{
         authError: state.auth.authError
     }
