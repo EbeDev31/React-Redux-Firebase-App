@@ -4,7 +4,7 @@ const Notifications =()=> {
   return (
 
       <div className="App">
-         <p>Notifications</p>
+         <p style={{fontSize:20,color:"red"}}>Notifications</p>
       </div>
   );
 }
