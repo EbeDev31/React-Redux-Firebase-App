@@ -10,10 +10,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(/img/mario-bg.png)no-repeat;
+  background: url(/img/wet.jpg)no-repeat;
   background-size: 100%;
   background-position: bottom;
-  background-color: #95e8f3;
+  background-color: #f395dc;
   /* min-height: 100%; */
 }
 
