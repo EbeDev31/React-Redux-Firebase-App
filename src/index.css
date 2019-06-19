@@ -45,3 +45,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.proj-card{
+  display:flex;
+  flex-direction: row;
+}
+.proj-details{
+  flex-grow: 9;
+  padding-left: 2em
+}
+.proj-delete{
+  flex-grow: 1;
+  background-color: #e2f395
+}
+
